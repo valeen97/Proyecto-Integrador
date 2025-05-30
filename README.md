@@ -22,4 +22,5 @@
 
 ## **Integrantes del equipo** 
 Kiara Fernandez  - Scrum Master - Desarrolladora
+
 Valentin Oviedo  -  Desarrollador
