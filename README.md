@@ -21,4 +21,5 @@
 - Historial de turnos con su respectivo servicio
 
 ## **Integrantes del equipo** 
-Kiara Fernandez
+Kiara Fernandez  - Scrum Master - Desarrolladora
+Valentin Oviedo  -  Desarrollador
