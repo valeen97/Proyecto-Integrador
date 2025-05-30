@@ -8,14 +8,14 @@
 - Gestión transparente de horarios y ubicación
 
 ## Posibles Funcionalidades 
-**Página de inicio con información esencial:**
+### **Página de inicio con información esencial:**
 - Horarios de atención
 - Ubicación del lavadero
 - Contacto
-**Catálogo de servicios:**
+### **Catálogo de servicios:**
 - Tipo de lavados
 - Precios actualizados
 - Duración de cada servicio
-**Sistema de reservas:**
+### **Sistema de reservas:**
 - Calendario interactivo para seleccionar un turno
 - Historial de turnos con su respectivo servicio
