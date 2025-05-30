@@ -19,3 +19,6 @@
 ### **Sistema de reservas:**
 - Calendario interactivo para seleccionar un turno
 - Historial de turnos con su respectivo servicio
+
+## **Integrantes del equipo** 
+Kiara Fernandez
