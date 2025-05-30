@@ -24,3 +24,5 @@
 Kiara Fernandez  - Scrum Master - Desarrolladora
 
 Valentin Oviedo  -  Desarrollador
+
+Tiago Nievas - Desarollador
